@@ -1,5 +1,47 @@
 # Markdown Portfolio
 
+# Hansel Reynoso Markdown Portfolio 
+
+##### A code immersive student
+
+![just a photo](https://avatars.githubusercontent.com/u/18405518?v=4)
+
+
+### Here is a link to my Resume 
+[My Resume](https://www.HanselReynoso.com)
+
+### Hobbies
+1. Warzone Gamer
+2. Build Websites for local business 
+3. Play pokemon go 
+
+### Other Hobbies 
+- Hangout with friends
+- Travel 
+- Workout
+
+### Here is a good task list for Makrdown 
+- [x] save as .md
+- [ ] do not forget to close bracket 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
 
 If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
